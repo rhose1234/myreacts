@@ -11,8 +11,7 @@ function App() {
     <div className="App">
     <Navbar />
     <Home/>
-    <edit/>
-     <div className="content"> </div>
+    <div className="content"> </div>
     
     </div>
   );
